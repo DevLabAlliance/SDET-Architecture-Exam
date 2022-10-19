@@ -1,6 +1,6 @@
 # Assignment
 
-[Click here to read the assignment](./docs/assignment.md)
+[Click here to read the assignment](./BasicFame/docs/assignment.md)
 
 ## BasicFrame
 
